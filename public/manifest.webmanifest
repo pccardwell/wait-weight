@@ -1,0 +1,13 @@
+{
+  "name": "Wait Weight",
+  "short_name": "Wait Weight",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#161310",
+  "theme_color": "#1a1714",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
